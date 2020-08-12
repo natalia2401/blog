@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "idee.png"
 +++
-***Herzlich Willkommen*** zum mein erste Eintrag auf diesem Blog. Ich werde jede Woche etwas neues publizieren. Heute will ich mitteilen welche meine Lernzielen für diesen Kurs sind und euch meine Arbeitsideen erzählen.
+***Herzlich Willkommen*** zum mein erste Eintrag auf diesem Blog. Ich werde jede Woche etwas Neues publizieren. Heute will ich mitteilen welches meine Lernziele für diesen Kurs sind und euch meine Arbeitsideen erzählen.
 
 **Was möchte ich in diesen Kurs lernen?**
 
