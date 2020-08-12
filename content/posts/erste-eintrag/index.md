@@ -21,4 +21,4 @@ Mein wünsch wäre eine eigene App zu erstellen, die für die anderen nützlich 
 Meine zwei **Ideen** sind:
 
 * Eine **Rezept App**. 
-* Eine **Beauty App.**
+* Eine **Beauty App/Blog.**
