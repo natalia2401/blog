@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
-logo = ""
+icon = "/media/ns-logo.png"
+logo = "/media/ns-logo.png"
 image = ""
-color = ""
+color = "#58FAF4"
 +++
-
