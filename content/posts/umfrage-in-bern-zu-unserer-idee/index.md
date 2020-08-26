@@ -9,7 +9,7 @@ Ich und meine Arbeitspartnerin sind heute nach Bern gegangen um Leuten zu fragen
 
 Wie schon im früheren Blogeintrag steht wollen ich und Larissa eine Beauty Website, die die Mädchen helfen soll mit selbstgemachten Masken, Tutorials und Rezensionen.
 
-Vielen sagten, dass so etwas schon gibt, zum Beispiel man findet viele Tutorials auf Instagram und Youtube. Ein paar haben sogar gesagt, dass manche Beauty-Tipps auch auf TikTok sind. Jedoch wären sie froh wenn sie nicht lange suchen mussten und alles auf ein einzige Ort zu finden ist. 
+Vielen sagten, dass so etwas schon gibt, zum Beispiel man findet viele Tutorials auf Instagram und Youtube. Ein paar haben sogar gesagt, dass manche Beauty-Tipps auch auf TikTok sind. Jedoch wären sie froh wenn sie nicht lange suchen müssten und alles auf ein einzige Ort zu finden ist. 
 
 Genau so könnte unsere Website gestaltet werden. Wir sammeln die viele Tipps auf dem Internet und publizieren nur die einzige, die wirklich etwas bringen. So müssen die Mädchen sich nicht sorgen machen ob es wirklich wirksam ist oder nicht.
 
