@@ -3,7 +3,7 @@ title = "Umfrage in Bern zu unserer Idee"
 date = "2020-08-26"
 draft = false
 pinned = false
-image = "940.jpg"
+image = "940-1-.jpg"
 +++
 Ich und meine Arbeitspartnerin sind heute nach Bern gegangen um Leute zu fragen was sie über unserer Idee finden. Wir haben ausschliesslich nur Mädchen in unser Alter befragt.
 
