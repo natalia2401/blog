@@ -13,4 +13,6 @@ Vielen sagten, dass so etwas schon gibt, zum Beispiel man findet viele Tutorials
 
 Genau so könnte unsere Website gestaltet werden. Wir sammeln die viele Tipps auf dem Internet und publizieren nur die einzige, die wirklich etwas bringen. So müssen die Mädchen sich nicht sorgen machen ob es wirklich wirksam ist oder nicht.
 
-Wir haben dazu auch der Umgebung beobachtet und haben festgestellt, dass es viele Schutzmasken am Boden liegen..
+Wir haben dazu auch der Umgebung beobachtet und haben festgestellt, dass am Boden viel Abfall liegt und vor allem sind immer Schutzmasken. Dies liegt daran, dass im Öffentliches Verkehr ein Maskenpflicht gilt. Nach dem aussteigen sollte es mehrere Abfalleimer speziell für die Schutzmasken geben, sodass diese nicht wegfliegen und am Boden landen.
+
+![](n-large-16x9-far.jpg)
