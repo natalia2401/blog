@@ -13,4 +13,4 @@ Vielen sagten, dass so etwas schon gibt, zum Beispiel man findet viele Tutorials
 
 Genau so könnte unsere Website gestaltet werden. Wir sammeln die viele Tipps auf dem Internet und publizieren nur die einzige, die wirklich etwas bringen. So müssen die Mädchen sich nicht sorgen machen ob es wirklich wirksam ist oder nicht.
 
-Wir haben dazu auch der Umgebung beobachtet und haben festgestellt, dass es viele Schutzmasken am Boden liegen.
+Wir haben dazu auch der Umgebung beobachtet und haben festgestellt, dass es viele Schutzmasken am Boden liegen..
