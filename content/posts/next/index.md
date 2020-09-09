@@ -17,6 +17,8 @@ Als erste Schritt wollen wir ein paar Rezepte ausprobieren und von denen die Pro
 
 Auf unsere Website sollen mehrere Rezepten von verschiedenen Bereichen sein. Unsere anfangs Ideen sind Strugle Meals, Desserts und Internationale Küche. Wir wollen jedoch auch Challenges durchführen, wie zum Beispiel nur 5 Zutaten oder mit Madame Frigo zusammen. Madame Frigo sind verschiedenen Kühlschränke im Bern verteilt wo die Leute ungebrauchte Esswaren hineintun um sie nicht zu fortschiessen. 
 
+![](madame_frigo_projektbild.jpg)
+
 Als nächstes werden wir unsere erste Rezept ausprobieren. Dies wird in den Herbstferien geschehen, da wir beide Zeit haben. 
 
 Um die Bilder richtig zu bearbeiten wollen wir ein bisschen mehr von Photoshop lernen, sodass die Bilder eine bessere Qualität haben. Dies wird sicher unsere nächste Lernphase sein.
