@@ -3,7 +3,7 @@ title = "Mein erste Eintrag"
 date = "2020-08-12"
 draft = false
 pinned = false
-image = "idee.png"
+image = "pexels-pixabay-355948-2-.jpg"
 +++
 ***Herzlich Willkommen*** zum mein erste Eintrag auf diesem Blog. Ich werde jede Woche etwas Neues publizieren. Heute will ich mitteilen welches meine Lernziele für diesen Kurs sind und euch meine Arbeitsideen erzählen.
 
