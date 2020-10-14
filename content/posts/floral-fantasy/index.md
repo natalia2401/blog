@@ -3,7 +3,7 @@ title = "Floral Fantasy"
 date = "2020-08-19"
 draft = false
 pinned = false
-image = "unbenannt-3-1-1-1-.jpg"
+image = "pexels-photo-992734.jpeg"
 +++
 **Unsere erste Website**
 
