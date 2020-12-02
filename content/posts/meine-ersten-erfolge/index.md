@@ -22,3 +22,5 @@ Als ich fertig war mit programmieren habe ich an unserem Projekt weitergearbeite
 Als erste habe ich mich die Bildern angeschaut und die bessere ausgewählt. Danach habe ich diese mit "Lightroom" bearbeitet um zum Beispiel die Farben zu verbessern.
 
 Am Schluss habe ich eine kurze PowerPoint Präsentation mit diesem Bildern zusammengestellt und mit Larissa an die WEB-Klasse präsentiert.
+
+![](whatsapp-image-2020-12-02-at-15.47.14-1-.jpeg)
