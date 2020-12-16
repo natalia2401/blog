@@ -16,6 +16,6 @@ So sieht im Moment unsere Website aus.
 
 ![](website-2-.png)
 
-Wir haben auch unser eigene Logo kreiert 
+Wir haben auch unser eigene Logo kreiert. So sieht er aus.
 
 ![](logo.jpg)
