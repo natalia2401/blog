@@ -4,9 +4,9 @@ date = "2020-12-16"
 draft = false
 pinned = false
 image = "logo.jpg"
-description = "**Unser Website nimmt Form!!!**"
+description = "**Unsere Website nimmt Form!!!**"
 +++
-**Unser Website nimmt Form!!!**
+**Unsere Website nimmt Form!!!**
 
 Heute ich und meine Teamkollegin Larissa haben angefangen mit der Gestaltung unsere Website.
 
