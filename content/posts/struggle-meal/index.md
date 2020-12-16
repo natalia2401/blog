@@ -11,3 +11,7 @@ description = "**Unser Website nimmt Form!!!**"
 Heute ich und meine Teamkollegin Larissa haben angefangen mit der Gestaltung unsere Website.
 
 Als erstes hat mir Larissa gezeigt was sie letzten Mal gemacht hat, da ich krank war. Nachher haben wir angefangen mit Programmieren.
+
+Wir haben auch unser eigene Logo kreiert 
+
+![](logo.jpg)
